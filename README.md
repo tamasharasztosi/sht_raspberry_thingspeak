@@ -13,7 +13,7 @@ Sends data in every 10 mins:
 
 > */10 * * * * /usr/bin/python /home/pi/sht_thingspeak.py
 
-This code shows SHT21 connected to BCM pin 24 (pin 18 on Rpi3)
+The conections are SCK pin: GPIO 21, DATA pin: GPIO 17
 
 
 *tamasharasztosi, 2018*
