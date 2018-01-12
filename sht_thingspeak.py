@@ -5,7 +5,7 @@
 # crontab -e
 # */10 * * * * /usr/bin/python /home/pi/sht_thingspeak.py
 
-# The conections are SCK pin: GPIO 21, DATA pin: GPIO 17
+# The connections are SCK pin: GPIO 21, DATA pin: GPIO 17
 # tamasharasztosi, 2018
 
 import sys
